@@ -1,6 +1,8 @@
 # Task-4
 SQL Server(Extraction,mapping,joins)
+
 Data Loading and Extraction (SQL Server)
+
 Tasks:
 Load all provided datasets into SQL Server.
 Extract Customers and Orders datasets separately using Python.
